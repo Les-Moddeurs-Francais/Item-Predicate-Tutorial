@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item_predicate_tutorial:item/is_best_test_predicate"
+  }
+}

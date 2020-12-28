@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item_predicate_tutorial:item/test_predicate"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "test": 1
+      },
+      "model": "item_predicate_tutorial:item/is_best_test_predicate"
+    }
+  ]
+}
